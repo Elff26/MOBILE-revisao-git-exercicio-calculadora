@@ -5,5 +5,4 @@ public class TesteCalculadora {
         System.out.println (calc.soma(5,5));
         System.out.println (calc.subtrair(5,5));
     }
-  
 }
